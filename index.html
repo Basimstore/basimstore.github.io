@@ -2,12 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
  
 <meta name="description" content="The Ultimate Source For Cydia And ++ IPA's">
 <meta name="author" content="Hollr2099">
@@ -189,28 +183,7 @@
     window.location = "https://m.hollr2099.net/ipas.html";
     }
     //-->
-    </script>
-<script>
-    function showResult(str) {
-    if (str.length==0) { 
-    document.getElementById("livesearch").innerHTML="";
-    document.getElementById("livesearch").style.border="0px";
-    return;
-    }
-    if (window.XMLHttpRequest) {
-    xmlhttp=new XMLHttpRequest();
-    } else {  // code for IE6, IE5
-    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-    }
-    xmlhttp.onreadystatechange=function() {
-    if (this.readyState==4 && this.status==200) {
-    document.getElementById("livesearch").innerHTML=this.responseText;
-    document.getElementById("livesearch").style.border="1px solid #A5ACB2";
-    }
-    }
-    xmlhttp.open("GET","livesearch.php?q="+str,true);
-    xmlhttp.send();
-    }
-    </script>
+ 
+
 </body>
 </html>
