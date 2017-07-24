@@ -27,7 +27,7 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://basimstore.github.io/Welcome</string>
+			<string>https://basimstore.github.io</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
