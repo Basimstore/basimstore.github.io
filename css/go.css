@@ -1,0 +1,87 @@
+body{
+  background: url(https://f.top4top.net/p_493oewb11.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+
+.hrhr{
+    width: 350px;
+}
+#appbox {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #afafaf;
+    background: #fdfdfd;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+#appbox img {
+    width:160px;
+    border-radius:95px;
+    border: 2px solid #b1b1b1;
+    padding: 4px;
+        margin-bottom: 10px;
+}
+.titleapp{
+    width: 200px;
+    margin: auto;
+    margin-top: 8px;
+    color: #4c4c4c;
+    font-size: 30px;
+    font-weight: 300;
+
+}
+
+.ios{
+    width: 170px;
+    margin: auto;
+    margin-top: 8px;
+    color: #4c4c4c;
+    font-size: 20px;
+  }
+  .install {
+      background: #e2e2e2;
+      width: 161px;
+      padding: 10px;
+      margin: auto;
+      margin-top: 7px;
+      font-family: Droid Arabic Kufi;
+      font-size: 18px;
+      border-radius: 27px;
+  }
+  .install a:hover{
+    text-decoration: none;
+  }
+  .social {
+    margin-top: 7px;
+    font-size: 31px;
+}
+
+.social :hover{
+  text-decoration: none;
+}
+.social a{
+    color: #4c6cb5;
+}
+.hr10 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 2px solid #c4cad9;
+        width: 1007px;
+}
+.callme{
+  font-family: Droid Arabic Kufi;
+
+}
+.des {
+    margin-top:10px;
+    font-family: Droid Arabic Kufi;
+    color: #7a7777;
+    margin-bottom: 5px;
+}S
